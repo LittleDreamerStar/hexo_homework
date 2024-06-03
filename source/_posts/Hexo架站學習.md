@@ -5,6 +5,8 @@ tags:
     - 爬行學學行中
     - 前端
     - 六角學院
+photos:
+- assets/banner3.jpg
 ---
 
 ## Hexo 標題

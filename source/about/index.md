@@ -2,6 +2,8 @@
 title: 關於我
 date: 2024-05-29 07:51:05
 tag: 前端之路
+photos:
+- assets/banner2.jpg
 fullPage: true
 ---
 
